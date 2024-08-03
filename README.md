@@ -88,12 +88,7 @@
   <a href="https://www.facebook.com/profile.php?id=100009498646790" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;"/>
   </a>
-</li>
 
-
-<br>
-
-<li>
 <li>
   <a href="https://www.instagram.com/josueespinoza00/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>

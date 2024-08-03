@@ -19,7 +19,7 @@
 <br>
 
 - Information Technology Student: Currently in the seventh semester of my degree.
-- Backend Developer: Experienced in developing server-side applications using various technologies and tools
+- Backend Developer: Knowledgeable in server-side development with experience in foundational technologies and tools.
 - Network Enthusiast: Passionate about studying and configuring networks, as well as server management.
 - Favorite Frameworks: Angular and Spring Web are my preferred frameworks for frontend and backend development, respectively, enjoying their capabilities for building robust and interactive web applications.
 
